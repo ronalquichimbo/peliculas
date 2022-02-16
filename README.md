@@ -12,11 +12,11 @@ A few resources to get you started if this is your first Flutter project:
   
 
 ## Paquetes 
-[Gestor de estados: Provider](https://pub.dev/packages/provider).
+- [Gestor de estados: Provider](https://pub.dev/packages/provider).
   
-[Http](https://pub.dev/packages/http).
+- [Http](https://pub.dev/packages/http).
   
-[Card Swiper](https://pub.dev/packages/card_swiper).
+- [Card Swiper](https://pub.dev/packages/card_swiper).
   
 
 
