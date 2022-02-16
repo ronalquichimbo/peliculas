@@ -1,16 +1,17 @@
-# peliculas
+# App Películas con flutter
 
-A new Flutter project.
+Es una aplicación donde permite visualizar Y buscar la bibliografía de una película, realizada en flutter y consumiendo los datos desde [" TMDB "](https://www.themoviedb.org/). 
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
+## Widgets 
 
 A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+- [Búsqueda: SearchDelegate](https://api.flutter.dev/flutter/material/SearchDelegate-class.html)
+- [Diseño: Container, stack, column, row](https://docs.flutter.dev/)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Paquetes 
+[Gestor de estados: Provider](https://pub.dev/packages/provider).
+[Http](https://pub.dev/packages/http).
+[Card Swiper](https://pub.dev/packages/card_swiper) 
+
+
